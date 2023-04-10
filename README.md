@@ -1,5 +1,1 @@
-# 혼자서 따로 공부한 내용들 모음
-
-## 1. [JSP](https://github.com/lold2424/Study/tree/main/Jsp)
-
-## 2. [JavaSpring](https://github.com/lold2424/Study/tree/main/JavaSpring)
+# 혼자서 Intellij를 사용해서 JavaSpring을 공부한 코드를 올리는 곳입니다.
